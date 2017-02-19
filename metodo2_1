@@ -1,0 +1,15 @@
+public class metodo2_1 {
+	public static void main(String[] args){
+		
+		restar(8,5);
+		
+	}
+		public  static void restar( int x, int y) {
+			int restar;
+			restar = y-x;
+			
+					System.out.println("El resultado de la resta es:"+restar);
+		}
+ 
+	}
+
