@@ -1,0 +1,15 @@
+public class metodo2_2 {
+
+	public static void main(String[] args) {
+  sumar(12,5);
+		
+	}
+		public  static void sumar( int x, int y) {
+			int sumar;
+			sumar= x+y;
+			
+					System.out.println("El resultado de la suma es:"+sumar);
+		
+	}
+
+}
