@@ -1,0 +1,14 @@
+public class metodo2_4 {
+
+	public static void main(String[] args) {
+		mult(8,5);
+		
+	}
+		public  static void mult( int x, int y) {
+			int multi;
+			multi = y*x;
+			
+					System.out.println("El resultado de la multiplicacion es:"+multi);
+		}
+ 
+	}
