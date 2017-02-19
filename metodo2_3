@@ -1,0 +1,15 @@
+public class metodo2_3 {
+	public static void main(String[] args) {
+		div(8,2);
+		
+	}
+		public  static void div( int x, int y) {
+			int div;
+			div = x/y;
+			
+					System.out.println("El resultado de la division es:"+div);
+		
+
+	}
+
+}
